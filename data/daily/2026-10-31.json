@@ -1,0 +1,2707 @@
+{
+  "fetched_at": "2026-10-31T10:41:42.722549+00:00",
+  "source": "apewisdom.io (all-stocks filter)",
+  "count": 300,
+  "results": [
+    {
+      "rank": 1,
+      "ticker": "RDDT",
+      "name": "Reddit",
+      "mentions": 309,
+      "upvotes": 13584,
+      "rank_24h_ago": 2,
+      "mentions_24h_ago": 320
+    },
+    {
+      "rank": 2,
+      "ticker": "INTC",
+      "name": "Intel",
+      "mentions": 164,
+      "upvotes": 2462,
+      "rank_24h_ago": 5,
+      "mentions_24h_ago": 192
+    },
+    {
+      "rank": 3,
+      "ticker": "SPY",
+      "name": "SPDR S&amp;P 500 ETF Trust",
+      "mentions": 140,
+      "upvotes": 359,
+      "rank_24h_ago": 6,
+      "mentions_24h_ago": 156
+    },
+    {
+      "rank": 4,
+      "ticker": "AMD",
+      "name": "AMD",
+      "mentions": 137,
+      "upvotes": 1069,
+      "rank_24h_ago": 18,
+      "mentions_24h_ago": 47
+    },
+    {
+      "rank": 5,
+      "ticker": "GOOG",
+      "name": "Alphabet (Google)",
+      "mentions": 130,
+      "upvotes": 1282,
+      "rank_24h_ago": 1,
+      "mentions_24h_ago": 385
+    },
+    {
+      "rank": 6,
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "mentions": 126,
+      "upvotes": 13031,
+      "rank_24h_ago": 16,
+      "mentions_24h_ago": 54
+    },
+    {
+      "rank": 7,
+      "ticker": "QQQ",
+      "name": "Invesco QQQ ETF",
+      "mentions": 123,
+      "upvotes": 297,
+      "rank_24h_ago": 8,
+      "mentions_24h_ago": 130
+    },
+    {
+      "rank": 8,
+      "ticker": "GOOGL",
+      "name": "Alphabet (Google)",
+      "mentions": 87,
+      "upvotes": 1652,
+      "rank_24h_ago": 3,
+      "mentions_24h_ago": 249
+    },
+    {
+      "rank": 9,
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "mentions": 60,
+      "upvotes": 263,
+      "rank_24h_ago": 4,
+      "mentions_24h_ago": 187
+    },
+    {
+      "rank": 10,
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "mentions": 60,
+      "upvotes": 104,
+      "rank_24h_ago": 14,
+      "mentions_24h_ago": 53
+    },
+    {
+      "rank": 11,
+      "ticker": "MU",
+      "name": "Micron Technology",
+      "mentions": 57,
+      "upvotes": 219,
+      "rank_24h_ago": 12,
+      "mentions_24h_ago": 73
+    },
+    {
+      "rank": 12,
+      "ticker": "VOO",
+      "name": "Vanguard S&amp;P 500 ETF",
+      "mentions": 53,
+      "upvotes": 143,
+      "rank_24h_ago": 20,
+      "mentions_24h_ago": 35
+    },
+    {
+      "rank": 13,
+      "ticker": "SNDK",
+      "name": "Sandisk",
+      "mentions": 52,
+      "upvotes": 540,
+      "rank_24h_ago": 9,
+      "mentions_24h_ago": 98
+    },
+    {
+      "rank": 14,
+      "ticker": "DTE",
+      "name": "DTE Energy",
+      "mentions": 41,
+      "upvotes": 108,
+      "rank_24h_ago": 21,
+      "mentions_24h_ago": 29
+    },
+    {
+      "rank": 15,
+      "ticker": "AAPL",
+      "name": "Apple",
+      "mentions": 40,
+      "upvotes": 79,
+      "rank_24h_ago": 11,
+      "mentions_24h_ago": 84
+    },
+    {
+      "rank": 16,
+      "ticker": "SOXL",
+      "name": "Direxion Shares ETF Trust - Direxion Daily Semiconductor Bull 3X Share",
+      "mentions": 40,
+      "upvotes": 77,
+      "rank_24h_ago": 34,
+      "mentions_24h_ago": 16
+    },
+    {
+      "rank": 17,
+      "ticker": "META",
+      "name": "Meta Platforms (Facebook)",
+      "mentions": 34,
+      "upvotes": 271,
+      "rank_24h_ago": 13,
+      "mentions_24h_ago": 54
+    },
+    {
+      "rank": 18,
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "mentions": 31,
+      "upvotes": 263,
+      "rank_24h_ago": 7,
+      "mentions_24h_ago": 118
+    },
+    {
+      "rank": 19,
+      "ticker": "NOW",
+      "name": "ServiceNow",
+      "mentions": 28,
+      "upvotes": 111,
+      "rank_24h_ago": 10,
+      "mentions_24h_ago": 87
+    },
+    {
+      "rank": 20,
+      "ticker": "FCF",
+      "name": "First Commonwealth Financial Corp",
+      "mentions": 28,
+      "upvotes": 243,
+      "rank_24h_ago": 15,
+      "mentions_24h_ago": 48
+    },
+    {
+      "rank": 21,
+      "ticker": "SPCX",
+      "name": "SpaceX",
+      "mentions": 26,
+      "upvotes": 49,
+      "rank_24h_ago": 24,
+      "mentions_24h_ago": 24
+    },
+    {
+      "rank": 22,
+      "ticker": "IT",
+      "name": "Gartner",
+      "mentions": 25,
+      "upvotes": 75,
+      "rank_24h_ago": 23,
+      "mentions_24h_ago": 28
+    },
+    {
+      "rank": 23,
+      "ticker": "SCHD",
+      "name": "Schwab Strategic Trust - CSIM Schwab US Dividend Equity ETF",
+      "mentions": 24,
+      "upvotes": 35,
+      "rank_24h_ago": 29,
+      "mentions_24h_ago": 25
+    },
+    {
+      "rank": 24,
+      "ticker": "NBIS",
+      "name": "Nebius Group",
+      "mentions": 24,
+      "upvotes": 235,
+      "rank_24h_ago": 27,
+      "mentions_24h_ago": 19
+    },
+    {
+      "rank": 25,
+      "ticker": "AGI",
+      "name": "Alamos Gold",
+      "mentions": 20,
+      "upvotes": 76,
+      "rank_24h_ago": 46,
+      "mentions_24h_ago": 9
+    },
+    {
+      "rank": 26,
+      "ticker": "KO",
+      "name": "Coca-Cola",
+      "mentions": 19,
+      "upvotes": 45,
+      "rank_24h_ago": 83,
+      "mentions_24h_ago": 8
+    },
+    {
+      "rank": 27,
+      "ticker": "API",
+      "name": "Agora.io",
+      "mentions": 19,
+      "upvotes": 207,
+      "rank_24h_ago": 179,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 28,
+      "ticker": "LINK",
+      "name": "Interlink Electronics",
+      "mentions": 19,
+      "upvotes": 26,
+      "rank_24h_ago": 59,
+      "mentions_24h_ago": 9
+    },
+    {
+      "rank": 29,
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "mentions": 18,
+      "upvotes": 47,
+      "rank_24h_ago": 57,
+      "mentions_24h_ago": 14
+    },
+    {
+      "rank": 30,
+      "ticker": "BE",
+      "name": "Bloom Energy",
+      "mentions": 16,
+      "upvotes": 47,
+      "rank_24h_ago": 87,
+      "mentions_24h_ago": 5
+    },
+    {
+      "rank": 31,
+      "ticker": "TQQQ",
+      "name": "ProShares Trust - ProShares UltraPro QQQ",
+      "mentions": 16,
+      "upvotes": 184,
+      "rank_24h_ago": 77,
+      "mentions_24h_ago": 5
+    },
+    {
+      "rank": 32,
+      "ticker": "SGOV",
+      "name": "iShares Trust - iShares 0-3 Month Treasury Bond ETF",
+      "mentions": 16,
+      "upvotes": 21,
+      "rank_24h_ago": 105,
+      "mentions_24h_ago": 5
+    },
+    {
+      "rank": 33,
+      "ticker": "AAA",
+      "name": "Listed Funds Trust - AAF First Priority CLO Bond ETF",
+      "mentions": 15,
+      "upvotes": 57,
+      "rank_24h_ago": 131,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 34,
+      "ticker": "YOU",
+      "name": "CLEAR Secure",
+      "mentions": 15,
+      "upvotes": 214,
+      "rank_24h_ago": 26,
+      "mentions_24h_ago": 23
+    },
+    {
+      "rank": 35,
+      "ticker": "IQ",
+      "name": "iQIYI",
+      "mentions": 14,
+      "upvotes": 105,
+      "rank_24h_ago": 54,
+      "mentions_24h_ago": 10
+    },
+    {
+      "rank": 36,
+      "ticker": "AM",
+      "name": "Antero Midstream",
+      "mentions": 14,
+      "upvotes": 100,
+      "rank_24h_ago": 38,
+      "mentions_24h_ago": 13
+    },
+    {
+      "rank": 37,
+      "ticker": "ALL",
+      "name": "Allstate",
+      "mentions": 12,
+      "upvotes": 45,
+      "rank_24h_ago": 35,
+      "mentions_24h_ago": 12
+    },
+    {
+      "rank": 38,
+      "ticker": "GLD",
+      "name": "SSgA SPDR Gold Shares",
+      "mentions": 12,
+      "upvotes": 29,
+      "rank_24h_ago": 167,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 39,
+      "ticker": "NRXP",
+      "name": "NRx Pharmaceuticals",
+      "mentions": 12,
+      "upvotes": 22,
+      "rank_24h_ago": 79,
+      "mentions_24h_ago": 5
+    },
+    {
+      "rank": 40,
+      "ticker": "VTI",
+      "name": "Vanguard Total Stock Market ETF",
+      "mentions": 11,
+      "upvotes": 30,
+      "rank_24h_ago": 102,
+      "mentions_24h_ago": 4
+    },
+    {
+      "rank": 41,
+      "ticker": "RKLB",
+      "name": "Rocket Lab USA",
+      "mentions": 11,
+      "upvotes": 68,
+      "rank_24h_ago": 108,
+      "mentions_24h_ago": 4
+    },
+    {
+      "rank": 42,
+      "ticker": "VT",
+      "name": "Vanguard Group, Inc. - Vanguard Total World Stock ETF",
+      "mentions": 10,
+      "upvotes": 23,
+      "rank_24h_ago": 89,
+      "mentions_24h_ago": 7
+    },
+    {
+      "rank": 43,
+      "ticker": "CAT",
+      "name": "Caterpillar",
+      "mentions": 9,
+      "upvotes": 68,
+      "rank_24h_ago": 19,
+      "mentions_24h_ago": 35
+    },
+    {
+      "rank": 44,
+      "ticker": "ON",
+      "name": "ON Semiconductor",
+      "mentions": 9,
+      "upvotes": 84,
+      "rank_24h_ago": 73,
+      "mentions_24h_ago": 7
+    },
+    {
+      "rank": 45,
+      "ticker": "ASTS",
+      "name": "AST SpaceMobile",
+      "mentions": 9,
+      "upvotes": 14,
+      "rank_24h_ago": 30,
+      "mentions_24h_ago": 16
+    },
+    {
+      "rank": 46,
+      "ticker": "UP",
+      "name": "Wheels Up",
+      "mentions": 9,
+      "upvotes": 6,
+      "rank_24h_ago": 67,
+      "mentions_24h_ago": 6
+    },
+    {
+      "rank": 47,
+      "ticker": "DC",
+      "name": "Dakota Gold",
+      "mentions": 9,
+      "upvotes": 38,
+      "rank_24h_ago": 112,
+      "mentions_24h_ago": 4
+    },
+    {
+      "rank": 48,
+      "ticker": "LOT",
+      "name": "Lotus Technology",
+      "mentions": 9,
+      "upvotes": 22,
+      "rank_24h_ago": 50,
+      "mentions_24h_ago": 8
+    },
+    {
+      "rank": 49,
+      "ticker": "NFLX",
+      "name": "Netflix",
+      "mentions": 8,
+      "upvotes": 31,
+      "rank_24h_ago": 25,
+      "mentions_24h_ago": 22
+    },
+    {
+      "rank": 50,
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "mentions": 8,
+      "upvotes": 38,
+      "rank_24h_ago": 60,
+      "mentions_24h_ago": 7
+    },
+    {
+      "rank": 51,
+      "ticker": "CC",
+      "name": "Chemours",
+      "mentions": 8,
+      "upvotes": 30,
+      "rank_24h_ago": 55,
+      "mentions_24h_ago": 8
+    },
+    {
+      "rank": 52,
+      "ticker": "TTM",
+      "name": "Tata Motors",
+      "mentions": 8,
+      "upvotes": 27,
+      "rank_24h_ago": 128,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 53,
+      "ticker": "SMH",
+      "name": "VanEck Vectors ETF Trust - VanEck Vectors Semiconductor ETF",
+      "mentions": 8,
+      "upvotes": 31,
+      "rank_24h_ago": 101,
+      "mentions_24h_ago": 6
+    },
+    {
+      "rank": 54,
+      "ticker": "SOXX",
+      "name": "BlackRock Institutional Trust Company N.A. - BTC iShares PHLX Semicond",
+      "mentions": 8,
+      "upvotes": 62,
+      "rank_24h_ago": 494,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 55,
+      "ticker": "IREN",
+      "name": "Iris Energy",
+      "mentions": 8,
+      "upvotes": 14,
+      "rank_24h_ago": 80,
+      "mentions_24h_ago": 7
+    },
+    {
+      "rank": 56,
+      "ticker": "CRWV",
+      "name": "CoreWeave",
+      "mentions": 8,
+      "upvotes": 12,
+      "rank_24h_ago": 33,
+      "mentions_24h_ago": 17
+    },
+    {
+      "rank": 57,
+      "ticker": "TSM",
+      "name": "TSMC",
+      "mentions": 7,
+      "upvotes": 33,
+      "rank_24h_ago": 69,
+      "mentions_24h_ago": 6
+    },
+    {
+      "rank": 58,
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "mentions": 7,
+      "upvotes": 11,
+      "rank_24h_ago": 28,
+      "mentions_24h_ago": 18
+    },
+    {
+      "rank": 59,
+      "ticker": "IBM",
+      "name": "IBM",
+      "mentions": 7,
+      "upvotes": 134,
+      "rank_24h_ago": 70,
+      "mentions_24h_ago": 6
+    },
+    {
+      "rank": 60,
+      "ticker": "DOW",
+      "name": "Dow",
+      "mentions": 7,
+      "upvotes": 12,
+      "rank_24h_ago": 118,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 61,
+      "ticker": "SO",
+      "name": "Southern Company",
+      "mentions": 7,
+      "upvotes": 169,
+      "rank_24h_ago": 53,
+      "mentions_24h_ago": 9
+    },
+    {
+      "rank": 62,
+      "ticker": "UI",
+      "name": "Ubiquiti",
+      "mentions": 7,
+      "upvotes": 21,
+      "rank_24h_ago": 37,
+      "mentions_24h_ago": 14
+    },
+    {
+      "rank": 63,
+      "ticker": "VXUS",
+      "name": "Vanguard Group, Inc. - Vanguard Total International Stock ETF",
+      "mentions": 7,
+      "upvotes": 23,
+      "rank_24h_ago": 499,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 64,
+      "ticker": "TLT",
+      "name": "BlackRock Institutional Trust Company N.A. - BTC iShares 20+ Year Trea",
+      "mentions": 7,
+      "upvotes": 11,
+      "rank_24h_ago": 103,
+      "mentions_24h_ago": 4
+    },
+    {
+      "rank": 65,
+      "ticker": "SQQQ",
+      "name": "ProShares Trust - ProShares UltraPro Short QQQ",
+      "mentions": 7,
+      "upvotes": 13,
+      "rank_24h_ago": 540,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 66,
+      "ticker": "EU",
+      "name": "enCore Energy",
+      "mentions": 7,
+      "upvotes": 8442,
+      "rank_24h_ago": 68,
+      "mentions_24h_ago": 6
+    },
+    {
+      "rank": 67,
+      "ticker": "CBRS",
+      "name": "Cerebras Systems",
+      "mentions": 7,
+      "upvotes": 12,
+      "rank_24h_ago": 82,
+      "mentions_24h_ago": 6
+    },
+    {
+      "rank": 68,
+      "ticker": "LLY",
+      "name": "Eli Lilly",
+      "mentions": 6,
+      "upvotes": 16,
+      "rank_24h_ago": 42,
+      "mentions_24h_ago": 12
+    },
+    {
+      "rank": 69,
+      "ticker": "MS",
+      "name": "Morgan Stanley",
+      "mentions": 6,
+      "upvotes": 19,
+      "rank_24h_ago": 155,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 70,
+      "ticker": "VC",
+      "name": "Visteon",
+      "mentions": 6,
+      "upvotes": 6,
+      "rank_24h_ago": 157,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 71,
+      "ticker": "SMCI",
+      "name": "Supermicro",
+      "mentions": 6,
+      "upvotes": 17,
+      "rank_24h_ago": 122,
+      "mentions_24h_ago": 4
+    },
+    {
+      "rank": 72,
+      "ticker": "ET",
+      "name": "Energy Transfer Partners",
+      "mentions": 6,
+      "upvotes": 76,
+      "rank_24h_ago": 31,
+      "mentions_24h_ago": 19
+    },
+    {
+      "rank": 73,
+      "ticker": "SOXS",
+      "name": "Direxion Shares ETF Trust - Direxion Daily Semiconductor Bear 3X Share",
+      "mentions": 6,
+      "upvotes": 13,
+      "rank_24h_ago": 132,
+      "mentions_24h_ago": 4
+    },
+    {
+      "rank": 74,
+      "ticker": "GME",
+      "name": "GameStop",
+      "mentions": 6,
+      "upvotes": 38,
+      "rank_24h_ago": 22,
+      "mentions_24h_ago": 27
+    },
+    {
+      "rank": 75,
+      "ticker": "HOOD",
+      "name": "Robinhood",
+      "mentions": 6,
+      "upvotes": 25,
+      "rank_24h_ago": 49,
+      "mentions_24h_ago": 9
+    },
+    {
+      "rank": 76,
+      "ticker": "CAN",
+      "name": "Canaan",
+      "mentions": 6,
+      "upvotes": 40,
+      "rank_24h_ago": 137,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 77,
+      "ticker": "DJT",
+      "name": "Trump Media &amp; Technology Group",
+      "mentions": 6,
+      "upvotes": 52,
+      "rank_24h_ago": 81,
+      "mentions_24h_ago": 6
+    },
+    {
+      "rank": 78,
+      "ticker": "ICE",
+      "name": "Intercontinental Exchange",
+      "mentions": 5,
+      "upvotes": 28,
+      "rank_24h_ago": 241,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 79,
+      "ticker": "WEN",
+      "name": "Wendy\u2019s Company",
+      "mentions": 5,
+      "upvotes": 11,
+      "rank_24h_ago": 307,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 80,
+      "ticker": "IBKR",
+      "name": "Interactive Brokers",
+      "mentions": 5,
+      "upvotes": 62,
+      "rank_24h_ago": 396,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 81,
+      "ticker": "INO",
+      "name": "Inovio Pharmaceuticals",
+      "mentions": 5,
+      "upvotes": 8,
+      "rank_24h_ago": 397,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 82,
+      "ticker": "IG",
+      "name": "Principal Exchange-Traded Funds - Principal Investment Grade Corporate",
+      "mentions": 5,
+      "upvotes": 9,
+      "rank_24h_ago": 88,
+      "mentions_24h_ago": 5
+    },
+    {
+      "rank": 83,
+      "ticker": "RSP",
+      "name": "Invesco Capital Management LLC - Invesco S&P 500 Equal Weight ETF",
+      "mentions": 5,
+      "upvotes": 8,
+      "rank_24h_ago": 48,
+      "mentions_24h_ago": 10
+    },
+    {
+      "rank": 84,
+      "ticker": "MSTR",
+      "name": "MicroStrategy",
+      "mentions": 5,
+      "upvotes": 13,
+      "rank_24h_ago": 39,
+      "mentions_24h_ago": 17
+    },
+    {
+      "rank": 85,
+      "ticker": "CD",
+      "name": "Chindata",
+      "mentions": 5,
+      "upvotes": 35,
+      "rank_24h_ago": 92,
+      "mentions_24h_ago": 5
+    },
+    {
+      "rank": 86,
+      "ticker": "COST",
+      "name": "Costco",
+      "mentions": 4,
+      "upvotes": 25,
+      "rank_24h_ago": 117,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 87,
+      "ticker": "XOM",
+      "name": "Exxon Mobil",
+      "mentions": 4,
+      "upvotes": 36,
+      "rank_24h_ago": 271,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 88,
+      "ticker": "RE",
+      "name": "Everest Re",
+      "mentions": 4,
+      "upvotes": 164,
+      "rank_24h_ago": 153,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 89,
+      "ticker": "ASML",
+      "name": "ASML",
+      "mentions": 4,
+      "upvotes": 711,
+      "rank_24h_ago": 72,
+      "mentions_24h_ago": 6
+    },
+    {
+      "rank": 90,
+      "ticker": "PS",
+      "name": "Pluralsight",
+      "mentions": 4,
+      "upvotes": 8,
+      "rank_24h_ago": 85,
+      "mentions_24h_ago": 5
+    },
+    {
+      "rank": 91,
+      "ticker": "LULU",
+      "name": "lululemon athletica",
+      "mentions": 4,
+      "upvotes": 6,
+      "rank_24h_ago": 158,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 92,
+      "ticker": "USO",
+      "name": "United States Commodity Funds LLC - United States Oil Fund",
+      "mentions": 4,
+      "upvotes": 11,
+      "rank_24h_ago": 65,
+      "mentions_24h_ago": 11
+    },
+    {
+      "rank": 93,
+      "ticker": "XLV",
+      "name": "SSgA Active Trust - SSgA Health Care Select Sector SPDR",
+      "mentions": 4,
+      "upvotes": 9,
+      "rank_24h_ago": 516,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 94,
+      "ticker": "OPEN",
+      "name": "Opendoor",
+      "mentions": 4,
+      "upvotes": 7,
+      "rank_24h_ago": 135,
+      "mentions_24h_ago": 4
+    },
+    {
+      "rank": 95,
+      "ticker": "SOFI",
+      "name": "SoFi",
+      "mentions": 4,
+      "upvotes": 21,
+      "rank_24h_ago": 174,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 96,
+      "ticker": "APP",
+      "name": "AppLovin",
+      "mentions": 4,
+      "upvotes": 11,
+      "rank_24h_ago": 139,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 97,
+      "ticker": "NXT",
+      "name": "Nextracker",
+      "mentions": 4,
+      "upvotes": 6,
+      "rank_24h_ago": 731,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 98,
+      "ticker": "AAOI",
+      "name": "Applied Optoelectronics",
+      "mentions": 4,
+      "upvotes": 4,
+      "rank_24h_ago": 114,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 99,
+      "ticker": "WAY",
+      "name": "Waystar",
+      "mentions": 4,
+      "upvotes": 13,
+      "rank_24h_ago": 763,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 100,
+      "ticker": "GYGY",
+      "name": "Game Your Game",
+      "mentions": 4,
+      "upvotes": 7,
+      "rank_24h_ago": 185,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 101,
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "mentions": 3,
+      "upvotes": 4,
+      "rank_24h_ago": 191,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 102,
+      "ticker": "WMT",
+      "name": "Walmart",
+      "mentions": 3,
+      "upvotes": 23,
+      "rank_24h_ago": 51,
+      "mentions_24h_ago": 8
+    },
+    {
+      "rank": 103,
+      "ticker": "MA",
+      "name": "Mastercard",
+      "mentions": 3,
+      "upvotes": 69,
+      "rank_24h_ago": 146,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 104,
+      "ticker": "PEP",
+      "name": "Pepsico",
+      "mentions": 3,
+      "upvotes": 22,
+      "rank_24h_ago": 195,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 105,
+      "ticker": "ADBE",
+      "name": "Adobe",
+      "mentions": 3,
+      "upvotes": 11,
+      "rank_24h_ago": 198,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 106,
+      "ticker": "AMAT",
+      "name": "Applied Materials",
+      "mentions": 3,
+      "upvotes": 19,
+      "rank_24h_ago": 214,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 107,
+      "ticker": "GL",
+      "name": "Globe Life",
+      "mentions": 3,
+      "upvotes": 57,
+      "rank_24h_ago": 234,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 108,
+      "ticker": "QCOM",
+      "name": "QUALCOMM",
+      "mentions": 3,
+      "upvotes": 15,
+      "rank_24h_ago": 257,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 109,
+      "ticker": "JPM",
+      "name": "JPMorgan Chase",
+      "mentions": 3,
+      "upvotes": 118,
+      "rank_24h_ago": 269,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 110,
+      "ticker": "UNH",
+      "name": "UnitedHealth",
+      "mentions": 3,
+      "upvotes": 5,
+      "rank_24h_ago": 270,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 111,
+      "ticker": "LITE",
+      "name": "Lumentum",
+      "mentions": 3,
+      "upvotes": 8,
+      "rank_24h_ago": 43,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 112,
+      "ticker": "DELL",
+      "name": "Dell",
+      "mentions": 3,
+      "upvotes": 5,
+      "rank_24h_ago": 62,
+      "mentions_24h_ago": 6
+    },
+    {
+      "rank": 113,
+      "ticker": "EDIT",
+      "name": "Editas Medicine",
+      "mentions": 3,
+      "upvotes": 76,
+      "rank_24h_ago": 86,
+      "mentions_24h_ago": 6
+    },
+    {
+      "rank": 114,
+      "ticker": "RTX",
+      "name": "Raytheon Technologies",
+      "mentions": 3,
+      "upvotes": 9,
+      "rank_24h_ago": 423,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 115,
+      "ticker": "OR",
+      "name": "Osisko Gold Royalties",
+      "mentions": 3,
+      "upvotes": 89,
+      "rank_24h_ago": 428,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 116,
+      "ticker": "JD",
+      "name": "Jingdong Mall",
+      "mentions": 3,
+      "upvotes": 7,
+      "rank_24h_ago": 56,
+      "mentions_24h_ago": 10
+    },
+    {
+      "rank": 117,
+      "ticker": "IWM",
+      "name": "BlackRock Institutional Trust Company N.A. - BTC iShares Russell 2000",
+      "mentions": 3,
+      "upvotes": 4,
+      "rank_24h_ago": 41,
+      "mentions_24h_ago": 11
+    },
+    {
+      "rank": 118,
+      "ticker": "SUB",
+      "name": "BlackRock Institutional Trust Company N.A. - BTC iShares Short-Term Na",
+      "mentions": 3,
+      "upvotes": 12,
+      "rank_24h_ago": 535,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 119,
+      "ticker": "VGT",
+      "name": "Vanguard Group, Inc. - Vanguard Information Technology ETF",
+      "mentions": 3,
+      "upvotes": 8,
+      "rank_24h_ago": 539,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 120,
+      "ticker": "RKT",
+      "name": "Rocket Companies",
+      "mentions": 3,
+      "upvotes": 14,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 121,
+      "ticker": "OUT",
+      "name": "Outfront Media",
+      "mentions": 3,
+      "upvotes": 9,
+      "rank_24h_ago": 636,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 122,
+      "ticker": "NVT",
+      "name": "nVent Electric",
+      "mentions": 3,
+      "upvotes": 7,
+      "rank_24h_ago": 650,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 123,
+      "ticker": "OG",
+      "name": "Onion Global",
+      "mentions": 3,
+      "upvotes": 9,
+      "rank_24h_ago": 109,
+      "mentions_24h_ago": 5
+    },
+    {
+      "rank": 124,
+      "ticker": "GLP",
+      "name": "Global Partners LP",
+      "mentions": 3,
+      "upvotes": 15,
+      "rank_24h_ago": 111,
+      "mentions_24h_ago": 4
+    },
+    {
+      "rank": 125,
+      "ticker": "PR",
+      "name": "Permian Resources",
+      "mentions": 3,
+      "upvotes": 10,
+      "rank_24h_ago": 45,
+      "mentions_24h_ago": 10
+    },
+    {
+      "rank": 126,
+      "ticker": "CTO",
+      "name": "CTO Realty Growth",
+      "mentions": 3,
+      "upvotes": 10,
+      "rank_24h_ago": 732,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 127,
+      "ticker": "ARM",
+      "name": "Arm Holdings",
+      "mentions": 3,
+      "upvotes": 5,
+      "rank_24h_ago": 113,
+      "mentions_24h_ago": 5
+    },
+    {
+      "rank": 128,
+      "ticker": "HERE",
+      "name": "Here Group Limited",
+      "mentions": 3,
+      "upvotes": 177,
+      "rank_24h_ago": 801,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 129,
+      "ticker": "NVO",
+      "name": "Novo Nordisk",
+      "mentions": 2,
+      "upvotes": 5,
+      "rank_24h_ago": 200,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 130,
+      "ticker": "BP",
+      "name": "BP",
+      "mentions": 2,
+      "upvotes": 5,
+      "rank_24h_ago": 147,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 131,
+      "ticker": "DE",
+      "name": "Deere & Company",
+      "mentions": 2,
+      "upvotes": 5,
+      "rank_24h_ago": 223,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 132,
+      "ticker": "ES",
+      "name": "Eversource Energy",
+      "mentions": 2,
+      "upvotes": 4,
+      "rank_24h_ago": 84,
+      "mentions_24h_ago": 5
+    },
+    {
+      "rank": 133,
+      "ticker": "HAS",
+      "name": "Hasbro",
+      "mentions": 2,
+      "upvotes": 47,
+      "rank_24h_ago": 236,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 134,
+      "ticker": "KLAC",
+      "name": "KLA",
+      "mentions": 2,
+      "upvotes": 7,
+      "rank_24h_ago": 244,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 135,
+      "ticker": "OXY",
+      "name": "Occidental Petroleum",
+      "mentions": 2,
+      "upvotes": 7,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 136,
+      "ticker": "SBUX",
+      "name": "Starbucks",
+      "mentions": 2,
+      "upvotes": 5,
+      "rank_24h_ago": 71,
+      "mentions_24h_ago": 7
+    },
+    {
+      "rank": 137,
+      "ticker": "TTWO",
+      "name": "Take 2 Interactive",
+      "mentions": 2,
+      "upvotes": 2,
+      "rank_24h_ago": 262,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 138,
+      "ticker": "WKHS",
+      "name": "Workhorse Group",
+      "mentions": 2,
+      "upvotes": 5,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 139,
+      "ticker": "TTMI",
+      "name": "TTM Technologies",
+      "mentions": 2,
+      "upvotes": 4,
+      "rank_24h_ago": 313,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 140,
+      "ticker": "GT",
+      "name": "Goodyear",
+      "mentions": 2,
+      "upvotes": 1,
+      "rank_24h_ago": 121,
+      "mentions_24h_ago": 4
+    },
+    {
+      "rank": 141,
+      "ticker": "TH",
+      "name": "Target Hospitality",
+      "mentions": 2,
+      "upvotes": 3,
+      "rank_24h_ago": 319,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 142,
+      "ticker": "MRNA",
+      "name": "Moderna",
+      "mentions": 2,
+      "upvotes": 26,
+      "rank_24h_ago": 74,
+      "mentions_24h_ago": 6
+    },
+    {
+      "rank": 143,
+      "ticker": "MRVL",
+      "name": "Marvell Technology Group",
+      "mentions": 2,
+      "upvotes": 3,
+      "rank_24h_ago": 32,
+      "mentions_24h_ago": 14
+    },
+    {
+      "rank": 144,
+      "ticker": "NYT",
+      "name": "New York Times",
+      "mentions": 2,
+      "upvotes": 6,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 145,
+      "ticker": "TT",
+      "name": "Trane Technologies",
+      "mentions": 2,
+      "upvotes": 5,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 146,
+      "ticker": "SNAP",
+      "name": "Snap",
+      "mentions": 2,
+      "upvotes": 13,
+      "rank_24h_ago": 99,
+      "mentions_24h_ago": 4
+    },
+    {
+      "rank": 147,
+      "ticker": "FR",
+      "name": "First Industrial Realty Trust",
+      "mentions": 2,
+      "upvotes": 17,
+      "rank_24h_ago": 444,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 148,
+      "ticker": "CPA",
+      "name": "Copa Holdings",
+      "mentions": 2,
+      "upvotes": 4,
+      "rank_24h_ago": 454,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 149,
+      "ticker": "CCJ",
+      "name": "Cameco",
+      "mentions": 2,
+      "upvotes": 10,
+      "rank_24h_ago": 458,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 150,
+      "ticker": "BYD",
+      "name": "Boyd Gaming",
+      "mentions": 2,
+      "upvotes": 3,
+      "rank_24h_ago": 44,
+      "mentions_24h_ago": 11
+    },
+    {
+      "rank": 151,
+      "ticker": "AA",
+      "name": "Alcoa",
+      "mentions": 2,
+      "upvotes": 548,
+      "rank_24h_ago": 471,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 152,
+      "ticker": "XLE",
+      "name": "SSgA Active Trust - SSgA Energy Select Sector SPDR",
+      "mentions": 2,
+      "upvotes": 5,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 153,
+      "ticker": "JUST",
+      "name": "Goldman Sachs ETF Trust - Goldman Sachs Just Us Large Cap Equity ETF",
+      "mentions": 2,
+      "upvotes": 10,
+      "rank_24h_ago": 485,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 154,
+      "ticker": "XLK",
+      "name": "SSgA Active Trust - SSgA Technology Select Sector SPDR",
+      "mentions": 2,
+      "upvotes": 6,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 155,
+      "ticker": "MAGA",
+      "name": "ETF Series Solutions Trust - Point Bridge GOP Stock Tracker ETF",
+      "mentions": 2,
+      "upvotes": -4,
+      "rank_24h_ago": 47,
+      "mentions_24h_ago": 9
+    },
+    {
+      "rank": 156,
+      "ticker": "XLP",
+      "name": "SSgA Active Trust - SSgA Consumer Staples Select Sector SPDR",
+      "mentions": 2,
+      "upvotes": 17,
+      "rank_24h_ago": 519,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 157,
+      "ticker": "DBO",
+      "name": "Invesco DB Multi-Sector Commodity Trust - Invesco DB Oil Fund",
+      "mentions": 2,
+      "upvotes": 6,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 158,
+      "ticker": "DON",
+      "name": "WisdomTree Trust - WisdomTree U.S. MidCap Dividend Fund",
+      "mentions": 2,
+      "upvotes": 5,
+      "rank_24h_ago": 104,
+      "mentions_24h_ago": 4
+    },
+    {
+      "rank": 159,
+      "ticker": "IVV",
+      "name": "iShares Core S&amp;P 500",
+      "mentions": 2,
+      "upvotes": 3,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 160,
+      "ticker": "QQQM",
+      "name": "Invesco Exchange-Traded Fund Trust II - Invesco NASDAQ 100 ETF",
+      "mentions": 2,
+      "upvotes": 4,
+      "rank_24h_ago": 169,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 161,
+      "ticker": "SLS",
+      "name": "Sellas Life Sciences",
+      "mentions": 2,
+      "upvotes": 2,
+      "rank_24h_ago": 570,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 162,
+      "ticker": "AMC",
+      "name": "AMC Entertainment",
+      "mentions": 2,
+      "upvotes": 4,
+      "rank_24h_ago": 66,
+      "mentions_24h_ago": 7
+    },
+    {
+      "rank": 163,
+      "ticker": "NGL",
+      "name": "NGL Energy Partners",
+      "mentions": 2,
+      "upvotes": 94,
+      "rank_24h_ago": 623,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 164,
+      "ticker": "ANY",
+      "name": "Sphere 3D",
+      "mentions": 2,
+      "upvotes": 4,
+      "rank_24h_ago": 657,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 165,
+      "ticker": "DNA",
+      "name": "Ginkgo Bioworks",
+      "mentions": 2,
+      "upvotes": 3,
+      "rank_24h_ago": 660,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 166,
+      "ticker": "NU",
+      "name": "Nu Holdings",
+      "mentions": 2,
+      "upvotes": 12,
+      "rank_24h_ago": 683,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 167,
+      "ticker": "FA",
+      "name": "First Advantage",
+      "mentions": 2,
+      "upvotes": 3,
+      "rank_24h_ago": 689,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 168,
+      "ticker": "PL",
+      "name": "Planet Labs",
+      "mentions": 2,
+      "upvotes": 1,
+      "rank_24h_ago": 700,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 169,
+      "ticker": "NA",
+      "name": "Nano Labs",
+      "mentions": 2,
+      "upvotes": 512,
+      "rank_24h_ago": 717,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 170,
+      "ticker": "ABOS",
+      "name": "Acumen Pharmaceuticals",
+      "mentions": 2,
+      "upvotes": 3,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 171,
+      "ticker": "DUOT",
+      "name": "Duos Technologies Group",
+      "mentions": 2,
+      "upvotes": 6,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 172,
+      "ticker": "WS",
+      "name": "Worthington Steel",
+      "mentions": 2,
+      "upvotes": 26,
+      "rank_24h_ago": 181,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 173,
+      "ticker": "SMA",
+      "name": "SmartStop Self Storage REIT",
+      "mentions": 2,
+      "upvotes": 19,
+      "rank_24h_ago": 784,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 174,
+      "ticker": "PG",
+      "name": "Procter & Gamble",
+      "mentions": 1,
+      "upvotes": 20,
+      "rank_24h_ago": 192,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 175,
+      "ticker": "BAC",
+      "name": "Bank of America",
+      "mentions": 1,
+      "upvotes": 6,
+      "rank_24h_ago": 192,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 176,
+      "ticker": "HD",
+      "name": "Home Depot",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 193,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 177,
+      "ticker": "DIS",
+      "name": "Walt Disney",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 194,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 178,
+      "ticker": "PFE",
+      "name": "Pfizer",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 196,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 179,
+      "ticker": "CSCO",
+      "name": "Cisco",
+      "mentions": 1,
+      "upvotes": -1,
+      "rank_24h_ago": 196,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 180,
+      "ticker": "TM",
+      "name": "Toyota",
+      "mentions": 1,
+      "upvotes": -2,
+      "rank_24h_ago": 197,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 181,
+      "ticker": "BA",
+      "name": "Boeing",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 116,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 182,
+      "ticker": "SAP",
+      "name": "SAP",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 17,
+      "mentions_24h_ago": 51
+    },
+    {
+      "rank": 183,
+      "ticker": "MCD",
+      "name": "McDonald",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 199,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 184,
+      "ticker": "ABT",
+      "name": "Abbott Laboratories",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 201,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 185,
+      "ticker": "MDT",
+      "name": "Medtronic",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 202,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 186,
+      "ticker": "ABBV",
+      "name": "AbbVie",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 203,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 187,
+      "ticker": "PYPL",
+      "name": "PayPal",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 204,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 188,
+      "ticker": "PTR",
+      "name": "PetroChina",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 206,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 189,
+      "ticker": "AMGN",
+      "name": "Amgen",
+      "mentions": 1,
+      "upvotes": -2,
+      "rank_24h_ago": 207,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 190,
+      "ticker": "SNY",
+      "name": "Sanofi",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 208,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 191,
+      "ticker": "UNP",
+      "name": "Union Pacific Corporation",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 209,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 192,
+      "ticker": "TXN",
+      "name": "Texas Instruments",
+      "mentions": 1,
+      "upvotes": -2,
+      "rank_24h_ago": 210,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 193,
+      "ticker": "LMT",
+      "name": "Lockheed Martin",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 94,
+      "mentions_24h_ago": 4
+    },
+    {
+      "rank": 194,
+      "ticker": "RY",
+      "name": "Royal Bank Of Canada",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 195,
+      "ticker": "CHTR",
+      "name": "Charter Communications",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 95,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 196,
+      "ticker": "AIR",
+      "name": "AAR",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 197,
+      "ticker": "AMT",
+      "name": "American Tower",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 211,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 198,
+      "ticker": "AAP",
+      "name": "Advance Auto Parts",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 212,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 199,
+      "ticker": "ALK",
+      "name": "Alaska Airlines",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 200,
+      "ticker": "MO",
+      "name": "Altria Group",
+      "mentions": 1,
+      "upvotes": 3,
+      "rank_24h_ago": 213,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 201,
+      "ticker": "APA",
+      "name": "Apache Corporation",
+      "mentions": 1,
+      "upvotes": 5,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 202,
+      "ticker": "ADSK",
+      "name": "Autodesk",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 203,
+      "ticker": "ADP",
+      "name": "Automatic Data Processing",
+      "mentions": 1,
+      "upvotes": 17,
+      "rank_24h_ago": 218,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 204,
+      "ticker": "CBOE",
+      "name": "Cboe",
+      "mentions": 1,
+      "upvotes": 5,
+      "rank_24h_ago": 217,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 205,
+      "ticker": "CF",
+      "name": "CF Industries",
+      "mentions": 1,
+      "upvotes": 5,
+      "rank_24h_ago": 219,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 206,
+      "ticker": "CMG",
+      "name": "Chipotle Mexican Grill",
+      "mentions": 1,
+      "upvotes": 3,
+      "rank_24h_ago": 218,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 207,
+      "ticker": "CLX",
+      "name": "Clorox",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 219,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 208,
+      "ticker": "CME",
+      "name": "CME Group",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 220,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 209,
+      "ticker": "CMS",
+      "name": "CMS Energy",
+      "mentions": 1,
+      "upvotes": 5,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 210,
+      "ticker": "CL",
+      "name": "Colgate-Palmolive",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 221,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 211,
+      "ticker": "COP",
+      "name": "ConocoPhillips",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 212,
+      "ticker": "ED",
+      "name": "Consolidated Edison",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 222,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 213,
+      "ticker": "GLW",
+      "name": "Corning",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 148,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 214,
+      "ticker": "FANG",
+      "name": "Diamondback Energy",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 224,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 215,
+      "ticker": "EBAY",
+      "name": "eBay",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 225,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 216,
+      "ticker": "EW",
+      "name": "Edwards Lifesciences",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 217,
+      "ticker": "EOG",
+      "name": "EOG Resources",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 218,
+      "ticker": "EL",
+      "name": "Estee Lauder",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 227,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 219,
+      "ticker": "FAST",
+      "name": "Fastenal",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 228,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 220,
+      "ticker": "FIS",
+      "name": "Fidelity National Information Services",
+      "mentions": 1,
+      "upvotes": 3,
+      "rank_24h_ago": 229,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 221,
+      "ticker": "FE",
+      "name": "FirstEnergy",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 231,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 222,
+      "ticker": "FTNT",
+      "name": "Fortinet",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 52,
+      "mentions_24h_ago": 7
+    },
+    {
+      "rank": 223,
+      "ticker": "GD",
+      "name": "General Dynamics",
+      "mentions": 1,
+      "upvotes": 3,
+      "rank_24h_ago": 230,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 224,
+      "ticker": "GE",
+      "name": "General Electric",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 231,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 225,
+      "ticker": "GM",
+      "name": "General Motors",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 233,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 226,
+      "ticker": "GILD",
+      "name": "Gilead Sciences",
+      "mentions": 1,
+      "upvotes": 5,
+      "rank_24h_ago": 149,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 227,
+      "ticker": "GS",
+      "name": "Goldman Sachs",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 235,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 228,
+      "ticker": "HAL",
+      "name": "Halliburton",
+      "mentions": 1,
+      "upvotes": 5,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 229,
+      "ticker": "HSY",
+      "name": "The Hershey Company",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 230,
+      "ticker": "HPE",
+      "name": "Hewlett Packard Enterprise",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 150,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 231,
+      "ticker": "HRL",
+      "name": "Hormel Foods",
+      "mentions": 1,
+      "upvotes": 3,
+      "rank_24h_ago": 238,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 232,
+      "ticker": "HPQ",
+      "name": "HP",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 239,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 233,
+      "ticker": "IEX",
+      "name": "IDEX",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 240,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 234,
+      "ticker": "ILMN",
+      "name": "Illumina",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 235,
+      "ticker": "IP",
+      "name": "International Paper",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 36,
+      "mentions_24h_ago": 15
+    },
+    {
+      "rank": 236,
+      "ticker": "INTU",
+      "name": "Intuit",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 242,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 237,
+      "ticker": "IRM",
+      "name": "Iron Mountain",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 243,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 238,
+      "ticker": "KR",
+      "name": "Kroger",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 245,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 239,
+      "ticker": "LRCX",
+      "name": "Lam Research",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 246,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 240,
+      "ticker": "LOW",
+      "name": "Lowe's Companies",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 247,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 241,
+      "ticker": "LYB",
+      "name": "LyondellBasell",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 248,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 242,
+      "ticker": "MPC",
+      "name": "Marathon Petroleum",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 249,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 243,
+      "ticker": "MLM",
+      "name": "Martin Marietta",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 244,
+      "ticker": "MOS",
+      "name": "The Mosaic Company",
+      "mentions": 1,
+      "upvotes": 5,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 245,
+      "ticker": "MSCI",
+      "name": "MSCI",
+      "mentions": 1,
+      "upvotes": 4,
+      "rank_24h_ago": 251,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 246,
+      "ticker": "NOV",
+      "name": "National Oilwell Varco",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 252,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 247,
+      "ticker": "NKE",
+      "name": "Nike",
+      "mentions": 1,
+      "upvotes": 5,
+      "rank_24h_ago": 61,
+      "mentions_24h_ago": 11
+    },
+    {
+      "rank": 248,
+      "ticker": "NOC",
+      "name": "Northrop Grumman",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 253,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 249,
+      "ticker": "PSA",
+      "name": "Public Storage",
+      "mentions": 1,
+      "upvotes": 3,
+      "rank_24h_ago": 255,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 250,
+      "ticker": "PWR",
+      "name": "Quanta Services",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 256,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 251,
+      "ticker": "DGX",
+      "name": "Quest Diagnostics",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 223,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 252,
+      "ticker": "REGN",
+      "name": "Regeneron Pharmaceuticals",
+      "mentions": 1,
+      "upvotes": 3,
+      "rank_24h_ago": 256,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 253,
+      "ticker": "RF",
+      "name": "Regions Financial",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 254,
+      "ticker": "RSG",
+      "name": "Republic Services",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 257,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 255,
+      "ticker": "RMD",
+      "name": "ResMed",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 258,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 256,
+      "ticker": "ROL",
+      "name": "Rollins",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 259,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 257,
+      "ticker": "SYK",
+      "name": "Stryker Corporation",
+      "mentions": 1,
+      "upvotes": 26,
+      "rank_24h_ago": 261,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 258,
+      "ticker": "TMUS",
+      "name": "T-Mobile US",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 261,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 259,
+      "ticker": "TXT",
+      "name": "Textron",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 263,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 260,
+      "ticker": "ULTA",
+      "name": "ULTA Beauty",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 268,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 261,
+      "ticker": "UPS",
+      "name": "United Parcel Service",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 151,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 262,
+      "ticker": "VFC",
+      "name": "VF Corporation",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 264,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 263,
+      "ticker": "VRSN",
+      "name": "VeriSign",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 264,
+      "ticker": "WDC",
+      "name": "Western Digital",
+      "mentions": 1,
+      "upvotes": 6,
+      "rank_24h_ago": 265,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 265,
+      "ticker": "WU",
+      "name": "Western Union",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 266,
+      "ticker": "NSRGY",
+      "name": "Nestl\u00e9",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 268,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 267,
+      "ticker": "VZ",
+      "name": "Verizon",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 272,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 268,
+      "ticker": "CVX",
+      "name": "Chevron",
+      "mentions": 1,
+      "upvotes": 22,
+      "rank_24h_ago": 273,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 269,
+      "ticker": "CRM",
+      "name": "Salesforce",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 274,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 270,
+      "ticker": "C",
+      "name": "Citigroup",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 275,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 271,
+      "ticker": "ACN",
+      "name": "Accenture",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 272,
+      "ticker": "BK",
+      "name": "Bank of New York Mellon",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 279,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 273,
+      "ticker": "BMY",
+      "name": "Bristol-Myers Squibb",
+      "mentions": 1,
+      "upvotes": -2,
+      "rank_24h_ago": 280,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 274,
+      "ticker": "CCL",
+      "name": "Carnival Cruise Line",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 152,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 275,
+      "ticker": "CB",
+      "name": "Chubb",
+      "mentions": 1,
+      "upvotes": 6,
+      "rank_24h_ago": 281,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 276,
+      "ticker": "COO",
+      "name": "Cooper Companies",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 283,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 277,
+      "ticker": "DVN",
+      "name": "Devon Energy",
+      "mentions": 1,
+      "upvotes": 6,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 278,
+      "ticker": "DUK",
+      "name": "Duke Energy",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 279,
+      "ticker": "FMC",
+      "name": "FMC",
+      "mentions": 1,
+      "upvotes": 5,
+      "rank_24h_ago": 285,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 280,
+      "ticker": "ISRG",
+      "name": "Intuitive Surgical",
+      "mentions": 1,
+      "upvotes": 5,
+      "rank_24h_ago": 287,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 281,
+      "ticker": "LHX",
+      "name": "L3Harris Technologies",
+      "mentions": 1,
+      "upvotes": 3,
+      "rank_24h_ago": 154,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 282,
+      "ticker": "LH",
+      "name": "LabCorp",
+      "mentions": 1,
+      "upvotes": 0,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 283,
+      "ticker": "M",
+      "name": "Macy's",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 288,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 284,
+      "ticker": "MNST",
+      "name": "Monster Beverage",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 285,
+      "ticker": "NI",
+      "name": "NiSource",
+      "mentions": 1,
+      "upvotes": 30,
+      "rank_24h_ago": 289,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 286,
+      "ticker": "PNW",
+      "name": "Pinnacle West Capital",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 290,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 287,
+      "ticker": "PEG",
+      "name": "PSEG",
+      "mentions": 1,
+      "upvotes": 6,
+      "rank_24h_ago": 119,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 288,
+      "ticker": "RL",
+      "name": "Ralph Lauren",
+      "mentions": 1,
+      "upvotes": -3,
+      "rank_24h_ago": 293,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 289,
+      "ticker": "SPGI",
+      "name": "S&P Global",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 291,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 290,
+      "ticker": "STX",
+      "name": "Seagate Technology",
+      "mentions": 1,
+      "upvotes": 5,
+      "rank_24h_ago": 120,
+      "mentions_24h_ago": 3
+    },
+    {
+      "rank": 291,
+      "ticker": "TGT",
+      "name": "Target",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 292,
+      "ticker": "USB",
+      "name": "U.S. Bancorp",
+      "mentions": 1,
+      "upvotes": 4,
+      "rank_24h_ago": 292,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 293,
+      "ticker": "VLO",
+      "name": "Valero Energy",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 293,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 294,
+      "ticker": "WM",
+      "name": "Waste Management",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 294,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 295,
+      "ticker": "WELL",
+      "name": "Welltower",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 295,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 296,
+      "ticker": "BABA",
+      "name": "Alibaba",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 296,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 297,
+      "ticker": "RIO",
+      "name": "Rio Tinto",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 0,
+      "mentions_24h_ago": null
+    },
+    {
+      "rank": 298,
+      "ticker": "TD",
+      "name": "Toronto Dominion Bank",
+      "mentions": 1,
+      "upvotes": 2,
+      "rank_24h_ago": 156,
+      "mentions_24h_ago": 2
+    },
+    {
+      "rank": 299,
+      "ticker": "SNP",
+      "name": "Sinopec",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 298,
+      "mentions_24h_ago": 1
+    },
+    {
+      "rank": 300,
+      "ticker": "YELP",
+      "name": "Yelp",
+      "mentions": 1,
+      "upvotes": 1,
+      "rank_24h_ago": 299,
+      "mentions_24h_ago": 1
+    }
+  ]
+}
